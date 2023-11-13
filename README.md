@@ -23,7 +23,7 @@ should be numpy and matplotlib.
 * *FHN_Test.py*: test script that solves the FitzHugh-Nagumo model using Parareal. 
 * *Lorenz63_Test.py*: test script that solves the Lorenz63 using Parareal. 
 
-* *probnum.mplstyle*: a style-file for plotting (adapted from the original - which is from [ProbNum](https://github.com/probabilistic-numerics/probnum) .
+* *probnum.mplstyle*: a style-file for plotting (adapted from the original - which is from [ProbNum](https://github.com/probabilistic-numerics/probnum) ).
 
 ## Authors
 
