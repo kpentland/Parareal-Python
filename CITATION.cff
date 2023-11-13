@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: If you use/modify this code, please cite it as below.
+title: Parareal (in Python)
+authors:
+- name: Kamran Pentland
+license: MIT
+url: "https://github.com/kpentland/Parareal-Python
+preferred-citation:
+  type: generic
+  title: "Parareal (in Python)"
+  authors:
+  - family-names: Pentland
+    given-names: Kamran
+    orcid: "https://orcid.org/0000-0001-9530-1890"
+  year: 2023
