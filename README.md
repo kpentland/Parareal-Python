@@ -5,7 +5,7 @@ Python.
 
 Contained within are two test problems that [Parareal](https://en.wikipedia.org/wiki/Parareal) will solve (serially)
 using user-specified coarse and fine solvers (here they are implemented as explicit 
-Runge-Kutta) methods. This version of Parareal does not run in parallel and was
+Runge-Kutta methods). This version of Parareal does not run in parallel and was
 written only to provide an idea of how the algorithm works for educational purposes. 
 
 Soon I hope to be able to provide an MPI version that will solve the IVP of 
