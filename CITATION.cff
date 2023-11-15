@@ -4,6 +4,6 @@ authors:
   - family-names: Pentland
     given-names: Kamran
     orcid: "https://orcid.org/0000-0001-9530-1890"
-title: "Parareal (in Python)"
+title: "pyParareal"
 date-released: 2023
 
