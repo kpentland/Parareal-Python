@@ -1,4 +1,4 @@
-# Parareal
+# pyParareal
 
 This repository contains a basic implementation of the Parareal algorithm - wrtitten in
 Python. 
