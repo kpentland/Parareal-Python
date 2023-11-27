@@ -5,7 +5,7 @@ Python.
 
 Contained within are two test problems that [Parareal](https://en.wikipedia.org/wiki/Parareal) will solve
 using user-specified coarse and fine solvers (here they are implemented as explicit 
-Runge-Kutta) methods. This version of Parareal has the option to run in parallel 
+Runge-Kutta methods). This version of Parareal has the option to run in parallel 
 (using the 'multiprocessing' package) but is written mostly for educational purposes and
 to provide an idea of how it works. 
 
